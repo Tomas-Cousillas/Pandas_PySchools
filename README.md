@@ -1,13 +1,12 @@
 # Pandas_PySchools
-Assignment - Pandas, Pandas, Pandas
 
-# Background
+## Background
 
 The data dive continues!
 
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
-# Academy of Py
+## Academy of Py
 
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 
@@ -15,7 +14,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Your final report should include each of the following:
 
-# District Summary
+## District Summary
 
 * Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
@@ -27,7 +26,7 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-# School Summary
+## School Summary
 
 * Create an overview table that summarizes key metrics about each school, including:
   * School Name
@@ -41,7 +40,7 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Top Performing Schools (By Passing Rate)
+## Top Performing Schools (By Passing Rate)
 
 * Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
@@ -55,19 +54,19 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-# Bottom Performing Schools (By Passing Rate)
+## Bottom Performing Schools (By Passing Rate)
 
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
-# Math Scores by Grade\*\*
+## Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-# Reading Scores by Grade
+## Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-# Scores by School Spending
+## Scores by School Spending
 
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
@@ -76,11 +75,11 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-# Scores by School Size
+## Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-# Scores by School Type
+## Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
